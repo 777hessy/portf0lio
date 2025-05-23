@@ -21,4 +21,4 @@ Portfolio stworzone jako projekt początkującego web developera do prezentacji 
 
 ## Kontakt
 
-Jeśli chcesz się ze mną skontaktować, napisz na: [Twój email lub inne dane kontaktowe]
+Jeśli chcesz się ze mną skontaktować, napisz na: nowak.wwy@gmail.com
